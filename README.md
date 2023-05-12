@@ -1,2 +1,2 @@
 # yandex-practicum-DS-projects-
-Здесь размещены учебные проекты, выполненные мной во время обучения в Яндекс практикум по направлению "Data Science"
+Here are the main educational projects that I completed while studying at Yandex.Practicum in the "Data Science" direction 
